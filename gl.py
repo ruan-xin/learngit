@@ -17,5 +17,9 @@ print(fibc1()）
 =======
 fab=CDLL(r'C:\Users\e0005202\Desktop\通讯\two\EswinAPI\x64\Release\EswinAPI.dll')
 fab.c()
+<<<<<<< Updated upstream
+print（fab.c）
+>>>>>>> Stashed changes
+=======
 print（fab.c）
 >>>>>>> Stashed changes
