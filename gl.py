@@ -11,4 +11,4 @@ print(fib.Spi_RegRead(n4,byref(s)))
 
 fib=CDLL(r'C:\Users\e0005202\Desktop\通讯\two\EswinAPI\x64\Release\EswinAPI.dll')
 fib.c()
-print(fibc1()）
+
